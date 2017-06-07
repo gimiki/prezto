@@ -12,5 +12,9 @@ fi
 
 # Customize to your needs...
 
+alias primusrun='vblank_mode=0 primusrun'
+alias wireshark=wireshark-gtk
+alias make='make -j4'
+
 export WORKON_HOME=$HOME/.virtualenvs
 export VIRTUALENVWRAPPER_VIRTUALENV_ARGS='--no-site-packages'
