@@ -57,9 +57,12 @@ zstyle ':prezto:module:editor' key-bindings 'emacs'
 
 # Auto convert .... to ../..
 zstyle ':prezto:module:editor' dot-expansion 'yes'
+<<<<<<< HEAD
 
 # Allow the zsh prompt context to be shown.
 #zstyle ':prezto:module:editor' ps-context 'yes'
+=======
+>>>>>>> f4b2704c30ed0af13eb5526a9cdb282324e59e5d
 
 #
 # Git
@@ -114,6 +117,7 @@ zstyle ':prezto:module:prompt' theme 'sorin'
 
 # Auto switch the Ruby version on directory change.
 zstyle ':prezto:module:ruby:chruby' auto-switch 'yes'
+<<<<<<< HEAD
 
 #
 # Python
@@ -121,6 +125,8 @@ zstyle ':prezto:module:ruby:chruby' auto-switch 'yes'
 
 # Auto switch the Python virtualenv on directory change.
 # zstyle ':prezto:module:python:virtualenv' auto-switch 'yes'
+=======
+>>>>>>> f4b2704c30ed0af13eb5526a9cdb282324e59e5d
 
 #
 # Screen
